@@ -7,6 +7,9 @@ using WebApplication2.Models;
 
 namespace WebApplication2.Controllers
 {
+    /// <summary>
+    /// Comment
+    /// </summary>
     public class DivisionsController : Controller
     {
         [HttpGet]
